@@ -81,9 +81,3 @@ This documentation demonstrates:
 ## Background
 
 Inspired by coursework in computer architecture at UC Berkeley.
-
----
-
-## 📄 Suggested Resume Line
-
-**CPU Architecture Design Documentation** — Authored detailed design docs for a 5-stage pipelined CPU, including hazard handling, control logic, and performance tradeoffs.
