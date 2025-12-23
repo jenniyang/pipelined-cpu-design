@@ -14,7 +14,6 @@ The documentation is based on an independently written design inspired by course
 - Control signal generation and propagation
 - Data and control hazard handling strategies
 - Performance tradeoffs and design limitations
-- Diagrams illustrating pipeline flow and forwarding paths
 
 ---
 
@@ -30,7 +29,7 @@ The CPU follows a classic 5-stage pipeline model:
 
 Each stage is separated by pipeline registers, and control logic coordinates instruction flow and hazard resolution.
 
-See `docs/pipeline.md` and `diagrams/pipeline_diagram.png` for details.
+See `docs/pipeline.md` for details.
 
 ---
 
